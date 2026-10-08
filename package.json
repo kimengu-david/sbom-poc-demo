@@ -1,0 +1,1 @@
+{ "name": "sbom-poc-demo", "version": "1.0.0", "description": "Tiny demo project for SBOM generation PoC", "dependencies": { "lodash": "4.17.15", "express": "4.17.1", "axios": "0.21.0" } }
